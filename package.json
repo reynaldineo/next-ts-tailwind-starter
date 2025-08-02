@@ -22,7 +22,7 @@
     "react": "^18",
     "react-dom": "^18",
     "sonner": "^1.7.1",
-    "universal-cookie": "^7.2.2"
+    "universal-cookie": "6.1.1"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
